@@ -6,3 +6,5 @@ Lorem Ipsum Dolor
 
 ### H3
 Lorem Ipsum Dolor
+
+Linha acrescentada no repositório local.
